@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a MERN Stack and React Native Developer with a strong focus on building scalable, performant, and user-centric applications. My experience spans full-stack web development and cross-platform mobile development, where I translate complex requirements into clean, maintainable code.<br><br>On the frontend, I work extensively with React, modern JavaScript, and responsive UI practices to deliver intuitive user experiences. On the backend, I design and implement robust APIs using Node.js, Express, and MongoDB, with an emphasis on security, performance, and clean architecture. I am also comfortable with Git-based workflows, CI/CD pipelines, and deploying applications to cloud platforms.<br><br>I approach development with a problem-solving mindset, valuing clarity, efficiency, and continuous learning. My goal is to contribute to impactful products while consistently improving my technical depth and engineering practices.
+I am a MERN Stack and React Native Developer with a strong focus on building scalable, performant, and user-centric applications. My experience spans full-stack web development, cross-platform mobile development, and artificial intelligence projects, where I translate complex requirements into clean, maintainable, and efficient code.
+
+On the frontend, I work extensively with React, modern JavaScript, and responsive UI practices to deliver intuitive and interactive user experiences. On the backend, I design and implement robust APIs using Node.js, Express, and MongoDB, emphasizing security, performance, and clean architecture. I am also proficient in Git-based workflows, CI/CD pipelines, and deploying applications to cloud platforms.
+
+In the field of AI, ML, and DL, I have experience building projects using TensorFlow, Keras, NumPy, Pandas, and other machine learning libraries. I implement models for image classification, predictive analytics, and neural networks, combining my software engineering skills with data-driven intelligence to deliver impactful solutions.
+
+I approach development with a problem-solving mindset, valuing clarity, efficiency, and continuous learning. My goal is to contribute to innovative products while consistently improving my technical depth in both software development and machine learning.
 
 
 ## 🌐 Socials:
